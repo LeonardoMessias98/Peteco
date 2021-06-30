@@ -26,4 +26,8 @@ export const GlobalStyle = createGlobalStyle`
     margin: 0;
   }
 
+  :root {
+    --master-color: #484542;
+  }
+
 `;
